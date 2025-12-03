@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Computer Science at the University of Science - VNUHCM.
-- 🤔 I'm currently interested in competitive programming and Olympiad math.
+- 🤔 I'm currently interested in competitive programming, Cyber security, and Olympiad math.
 - 📫 You can reach me through my email: khoapgh235@gmail.com.
 - 💬 Ask me about some fun math topics (combinatorics is my favorite :DD)
